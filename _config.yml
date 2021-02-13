@@ -1,0 +1,27 @@
+# Dependencies
+#markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Ran Azouri
+tagline:          ''
+# description:      'A bright mathematician focusing on shapes and their hidden characteristics. Travels around a geometrically defined world'
+description:      ''
+url:              https://www.ranazouri.com
+baseurl:          /
+
+author:
+  name:           'Ran Azouri'
+  url:            https://twitter.com/ran
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/ransass/ransass.github.io
