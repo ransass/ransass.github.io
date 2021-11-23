@@ -7,9 +7,9 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            ' Ran AYouri '
+title:            Ran AYouri
 tagline:          ''
- description:     ' Institut fur Mathematik, Universität Zürich '
+ description:     'Institut fur Mathematik, Universität Zürich'
 description:      ''
 url:              https://www.ranazouri.com
 baseurl:          /
