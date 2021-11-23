@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Ran Azouri
 tagline:          'bbb'
 description:     'Institut fur Mathematik, Universitt Zrich'
-description:      'A'
+# description:      'A'
 url:              https://www.ranazouri.com
 baseurl:          /
 
