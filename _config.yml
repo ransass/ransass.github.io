@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Ran Azouri
 tagline:          'mathematician'
-description:     'IMJ-PRG, \br Université Paris Cité'
+description:     'IMJ-PRG, <br/> Université Paris Cité'
 url:              https://www.ranazouri.com
 baseurl:          /
 
